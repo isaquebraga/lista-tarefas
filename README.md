@@ -1,6 +1,6 @@
 # Todo App
 
-![screenshot](https://github.com/isaquebraga/todo-app/blob/main/apresenta%C3%A7%C3%A3o.png)
+![screenshot](https://raw.githubusercontent.com/isaquebraga/todo-app/main/apresenta%C3%A7%C3%A3o.png)
 
 Este é um repositório para um simples Todo App desenvolvido em React Native. O aplicativo foi criado para ajudar os usuários a gerenciar suas tarefas diárias de forma eficiente.
 
