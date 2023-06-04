@@ -11,6 +11,14 @@ npm-debug.*
 *.orig.*
 web-build/
 .gitignore
+config
+description
+HEAD
+objects/
+info/
+hooks/
+refs/
+
 
 # macOS
 .DS_Store
